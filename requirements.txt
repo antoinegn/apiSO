@@ -1,5 +1,4 @@
 beautifulsoup4==4.10.0
-en_core_web_sm==3.2.0
 langdetect==1.0.9
 matplotlib==3.4.3
 nbpep8==0.0.15
