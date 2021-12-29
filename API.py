@@ -35,7 +35,7 @@ import pickle
 import en_core_web_sm
 
 # Library for PEP8 standard
-from nbpep8.nbpep8 import pep8
+# from nbpep8.nbpep8 import pep8
 from PIL import Image
 image = Image.open('stack_overflow_logo.png')
 
